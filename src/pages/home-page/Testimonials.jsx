@@ -28,7 +28,7 @@ const Testimonials = () => {
                             <div className=" mb-4">
                                 <img
                                     src={aboutImg1}
-                                    alt="Michael Thompson"
+                                    alt="Jennifer Thompson"
                                     className="w-12 h-12 rounded-full object-cover"
                                 />
                             </div>
@@ -37,7 +37,7 @@ const Testimonials = () => {
                             </p>
                             <div className="text-start flex justify-between items-center ">
                                 <div>
-                                    <h4 className="text-gray-800 font-semibold">Michael Thompson</h4>
+                                    <h4 className="text-gray-800 font-semibold">Tatiana Thompson</h4>
                                     <p className="tex[#BF712B] text-sm">Software Engineer</p>
                                 </div>
                                 <div>
@@ -54,7 +54,7 @@ const Testimonials = () => {
                             <div className=" mb-4">
                                 <img
                                     src={aboutImg2}
-                                    alt="Michael Thompson"
+                                    alt="Tatiana Thompson"
                                     className="w-12 h-12 rounded-full object-cover"
                                 />
                             </div>
@@ -63,7 +63,7 @@ const Testimonials = () => {
                             </p>
                             <div className="text-start flex justify-between items-center ">
                                 <div>
-                                    <h4 className="text-gray-800 font-semibold">Daniel Martinez</h4>
+                                    <h4 className="text-gray-800 font-semibold">Mavis Martinez</h4>
                                     <p className="tex[#BF712B] text-sm">Product Designer</p>
                                 </div>
                                 <div>
@@ -80,7 +80,7 @@ const Testimonials = () => {
                             <div className=" mb-4">
                                 <img
                                     src={aboutImg3}
-                                    alt="Michael Thompson"
+                                    alt="Tatiana Thompson"
                                     className="w-12 h-12 rounded-full object-cover"
                                 />
                             </div>
@@ -90,7 +90,7 @@ const Testimonials = () => {
                             </p>
                             <div className="text-start flex justify-between items-center ">
                                 <div>
-                                    <h4 className="text-gray-800 font-semibold">Michael Smith</h4>
+                                    <h4 className="text-gray-800 font-semibold">Sandra Smith</h4>
                                     <p className="tex[#BF712B] text-sm">Medical Officer</p>
                                 </div>
                                 <div>
